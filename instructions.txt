@@ -1,0 +1,42 @@
+HTML Homework Exercise
+Requirements
+Using HTML elements properly
+Use HTML attributes properly
+Use proper HTML5 elements to structure the website. 
+Instructions
+For this assignment you will start with the recreation of the Justice Reskill website. 
+In this first assignment you will start by creating the HTML structure of the 
+Justice Reskill website. There will be no CSS, it will just be HTML. 
+The CSS will be added in for the next assignment, after CSS is covered in class. 
+
+// create a navigation bar to be recreated on first 3 pages.
+This nav bar to include 6 pages:
+1. Justice Reskill Landing page
+2. Contact Us
+3. Student Application
+like
+4. Student Open house
+Links directly to hopin
+https://hopin.com/events/justicereskill-openhouse
+5. BUTTON Fair Chance Hiring Launch Event
+Links directly to hopin
+https://hopin.com/events/fairchancehiring
+6. BUTTON Donate Today
+links directly to open collective
+https://opencollective.com/justice-reskill/contribute/the-brad-feld-matching-donation-program-20366
+
+Justice Reskill LOGO
+https://images.typeform.com/images/mNuZswKZdXxu/image/default
+
+
+CSS Homework Exercise
+Requirements
+Use CSS properties to style and position HTML elements
+Instructions
+For this assignment you will continue with the recreation of the Justice Reskill website. 
+In this second assignment you will use the HTML structure you created in the 
+HTML homework assignment. 
+You will now be adding in CSS styles to start making your page look like the
+ Justice Reskill website. 
+
+
